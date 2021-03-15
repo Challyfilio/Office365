@@ -1,0 +1,5 @@
+C:\office365\setup.exe /download C:\office365\Configuration1.xml
+
+C:\office365\setup.exe /configure C:\office365\Configuration2.xml
+
+kms.loli.beer

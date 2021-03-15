@@ -1,0 +1,37 @@
+<Configuration>
+  <Add SourcePath="C:\office365\office365down\" OfficeClientEdition="64" Channel="Monthly">
+    <Product ID="O365ProPlusRetail">
+      <Language ID="zh-cn" />
+      <ExcludeApp ID="Access" />
+      <!--ExcludeApp ID="Excel" /-->
+      <ExcludeApp ID="Groove" />
+      <ExcludeApp ID="InfoPath" />
+      <ExcludeApp ID="Lync" />
+      <ExcludeApp ID="OneDrive" />
+      <ExcludeApp ID="OneNote" />
+      <ExcludeApp ID="Outlook" />
+      <!--ExcludeApp ID="PowerPoint" /-->
+      <ExcludeApp ID="Publisher" />
+      <!--ExcludeApp ID="Word" /-->
+    </Product>
+    
+<!--    
+    <Product ID="VisioProRetail">
+      <Language ID="zh-cn" />
+      <ExcludeApp ID="Visio" />
+    </Product>
+
+    <Product ID="ProjectProRetail">
+      <Language ID="zh-cn" />
+      <ExcludeApp ID="Project" />
+    </Product>
+    
+    <Product ID="SPDRetail">
+      <Language ID="zh-cn" />
+      <ExcludeApp ID="SharePointDesigner" />
+    </Product>
+-->
+  </Add>
+</Configuration>
+
+<!--O365ProPlusRetail,VisioProRetail,ProjectProRetail,SPDRetail-->
